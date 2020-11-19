@@ -60,7 +60,8 @@ Understanding the Process of Video Steganography
 
 
 
-ABOUT THE CODE:
+ABOUT THE CODE
+
 Libraries for Python like cv2 and Stegano have been used.
 
 
